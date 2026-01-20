@@ -4,20 +4,20 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-footer{
+header{
     background-color: #C0392B;
 }
-.footer-container{
+.header-container{
     color: white;
     padding: 15px 410px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.footer-container h1{
+.header-container h1{
     font-size: 28px;
 }
-.footer-container nav a{
+.header-container nav a{
     text-decoration: none;
     color: white;
     margin: 0 34px;
